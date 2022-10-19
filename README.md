@@ -1,8 +1,10 @@
 # 1056-People-Living_Face-Anti-Spoofing-Data
-https://www.datatang.ai/datasets/971
+
 
 ## Description
 1,056 People Living_face & Anti-Spoofing Data. The collection scenes include indoor and outdoor scenes. The data includes male and female. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The data includes multiple postures, multiple expressions, and multiple anti-spoofing samples. The data can be used for tasks such as face payment, remote ID authentication, and face unlocking of mobile phone.
+
+For more details, please refer to the link: https://bit.ly/3DQE3hx
 
 ## Data size
 1,056 people,  235 videos and 63 images for each person
@@ -27,3 +29,6 @@ the video format is .mov or .mp4, the image format is .jpg
 
 ## Accuracy
 the accuracy of actions exceeds 97%, the accuracy of naming the actions and lip language exceeds 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
