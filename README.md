@@ -4,7 +4,8 @@
 ## Description
 1,056 People Living_face & Anti-Spoofing Data. The collection scenes include indoor and outdoor scenes. The data includes male and female. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The data includes multiple postures, multiple expressions, and multiple anti-spoofing samples. The data can be used for tasks such as face payment, remote ID authentication, and face unlocking of mobile phone.
 
-For more details, please refer to the link: https://bit.ly/3DQE3hx
+For more details, please refer to the link: https://www.nexdata.ai/datasets/971?source=Github
+
 
 ## Data size
 1,056 people,  235 videos and 63 images for each person
