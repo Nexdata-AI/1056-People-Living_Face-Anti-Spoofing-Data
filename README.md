@@ -32,4 +32,4 @@ the video format is .mov or .mp4, the image format is .jpg
 the accuracy of actions exceeds 97%, the accuracy of naming the actions and lip language exceeds 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
